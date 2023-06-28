@@ -18,8 +18,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/quenyoni/SocialProofSection](https://github.com/quenyoni/SocialProofSection)
+- Live Site URL: [https://social-proof-section-nu-seven.vercel.app/](https://your-live-site-url.com](https://social-proof-section-nu-seven.vercel.app/)
 
 ## My process
 
